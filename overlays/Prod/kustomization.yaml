@@ -5,9 +5,9 @@ bases:
 - ../../base
 
 commonLabels:
-  env: dev
+  env: prod
 
 resources:
   - namespace.yaml
 
-namespace: bold-services2
+namespace: bold-services
